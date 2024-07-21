@@ -17,7 +17,7 @@ Esse projeto é uma aplicação para implementar em empreendimentos, onde um bot
 
 ## 👾 Tecnologias usadas
 - ``Python 3.12.4``
-- Framework ``random``, ``time``, ``string``
+- Framework ``random``, ``datetime``
 
 ## ▶ Inicialização
 Esse projeto foi desenvolvido no sistema operacional Windows utilizando o programa ``VSCode``.
